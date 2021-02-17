@@ -1,1 +1,1 @@
-# Welcome to the Guided Synapse & Purview Learning Path
+# Days 1-5 Synapse & Purview Basics
