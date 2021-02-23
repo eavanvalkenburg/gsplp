@@ -14,27 +14,27 @@ This guide is meant for anyone interested in learning more about analytics and d
 - Community on Teams - invite only, after privacy consent
   - Weekly Office Hours via Microsoft Teams
   - Partner specific discussions via Microsoft Teams
-- Technical questions via StackOverflow with [`azure-synapse`](so-synapse) & [`azure-purview`](so-purview) label
+- Technical questions via StackOverflow with [`azure-synapse`][so-synapse] & [`azure-purview`][so-purview] label
 
 
 ## Schedule
 | Days       | Topic                         |
 | ---------- | ----------------------------- |
-| Days 1-5   | [Basics](part1)               |
-| Days 6-15  | [Core concepts](part2)        |
-| Days 16-20 | [Exploration](part3)          |
-| Days 21-25 | [Architecture](part4)         |
-| Days 26-27 | [Hands-on workshop](part5)    |
-| Days 28-32 | [Patterns & Practices](part6) |
-| Days 33-50 | [Best practices](part7)       |
+| Days 1-5   | [Basics][part1]               |
+| Days 6-15  | [Core concepts][part2]        |
+| Days 16-20 | [Exploration][part3]          |
+| Days 21-25 | [Architecture][part4]         |
+| Days 26-27 | [Hands-on workshop][part5]    |
+| Days 28-32 | [Patterns & Practices][part6] |
+| Days 33-50 | [Best practices][part7]       |
 
 
-[part1]: (part1.md)
-[part2]: (part2.md)
-[part3]: (part3.md)
-[part4]: (part4.md)
-[part5]: (part5.md)
-[part6]: (part6.md)
-[part7]: (part7.md)
-[so-synapse]: (https://stackoverflow.com/questions/tagged/azure-synapse)
-[so-purview]: (https://stackoverflow.com/questions/tagged/azure-purview)
+[part1]: part1.md
+[part2]: part2.md
+[part3]: part3.md
+[part4]: part4.md
+[part5]: part5.md
+[part6]: part6.md
+[part7]: part7.md
+[so-synapse]: https://stackoverflow.com/questions/tagged/azure-synapse
+[so-purview]: https://stackoverflow.com/questions/tagged/azure-purview
