@@ -1,1 +1,13 @@
-# Welcome to the Guided Synapse & Purview Learning Path
+# Day 28-32
+## Data Analytics & Governance patterns & practices
+
+Understand the repeatable, generic patterns and reusable components that make developing reliable distributed systems easier and more efficient—so you can free up your time to focus on more strategic initiatives.
+
+---
+
+[previous-link]: part5.md
+[next-link]: part7.md
+[home-link]:README.md
+[<img src="assets/previous.png" width="50" height="50" rotate="180" style="float:left">][previous-link]
+[<img src="assets/home_button.png" style="vertical-align:middle">][home-link]
+[<img src="assets/next.png" width="50" height="50" style="float:right">][next-link]
