@@ -38,3 +38,9 @@ This guide is meant for anyone interested in learning more about analytics and d
 [part7]: part7.md
 [so-synapse]: https://stackoverflow.com/questions/tagged/azure-synapse
 [so-purview]: https://stackoverflow.com/questions/tagged/azure-purview
+
+
+---
+
+[next-link]: part1.md
+[<img src="assets/next.png" width="50" height="50" style="float:right">][next-link]

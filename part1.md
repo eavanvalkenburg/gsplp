@@ -13,7 +13,7 @@ Join Satya, Jeremy Chapman and Scott Hanselman on YouTube for a series of videos
 
 ---
 
-[next-link]: page2.md
+[next-link]: part2.md
 [home-link]: README.md
 [<img src="assets/home_button.png" style="vertical-align:middle">][home-link]
-[<img src="assets/next.png" width="75" height="75" style="float:right">][next-link]
+[<img src="assets/next.png" width="50" height="50" style="float:right">][next-link]
