@@ -1,11 +1,26 @@
 # Day 33-50
-## Operational best practices for Synanpse & Purview
+## Operational best practices for Synapse & Purview
 
 Review these resources to understand the different ways to use Synapse and Purview in an optimal way!
 
 ---
+### General
 - [Azure best practices - Synapse](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/analytics/azure-synapse)
+
+### Synapse SQL Pool
+- [Data loading into SQL Pool (DWH)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices)
+- [Development with SQL Pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices-development)
+
+### Synapse SQL Serverless
+- [Best practices for Serverless SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/best-practices-sql-on-demand)
+- [Cost management for Serverless SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed)
+
+### Synapse Spark
+- [Using Delta Lake with Synapse Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-delta-lake-overview?pivots=programming-language-csharp)
 - [Data validation at scale](https://techcommunity.microsoft.com/t5/azure-architecture-blog/data-validation-at-scale-with-azure-synapse/ba-p/2051697)
+
+
+### Purview
 
 ---
 
