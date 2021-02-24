@@ -5,7 +5,7 @@ Review these resources to understand the different ways to use Synapse and Purvi
 
 ---
 ### General
-- [Azure best practices - Synapse](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/analytics/azure-synapse)
+- [CAF Azure best practices - Synapse](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/analytics/azure-synapse)
 
 ### Synapse SQL Pool
 - [Data loading into SQL Pool (DWH)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices)

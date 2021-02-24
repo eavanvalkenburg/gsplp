@@ -1,6 +1,6 @@
 # Welcome to the Guided Synapse & Purview Learning Path
-<img src="assets/synapse_logo.png" alt="Synapse logo" style="float: left; margin-right: 10px; width:100px; height:100px" />
-<img src="assets/purview_logo.png" alt="Purview logo" style="float: right; margin-right: 10px; width:100px; height:100px" />
+<img src="assets/synapse_logo.png" alt="Synapse logo" width=100 height=100 style="float: left; margin-right: 10px;" />
+<img src="assets/purview_logo.png" alt="Purview logo" width=100 height=100 style="float: right; margin-right: 10px;" />
 
 ## _**50 days from zero to hero!**_
 
