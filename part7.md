@@ -13,3 +13,5 @@ Review these resources to understand the different ways to use Synapse and Purvi
 [home-link]:README.md
 [<img src="assets/previous.png" width="50" height="50" rotate="180" style="float:left">][previous-link]
 [<img src="assets/home_button.png" style="vertical-align:middle">][home-link]
+
+<!-- Note for us: best practices are architectures, landing zones etc. while Patterns and Practices (next part) are examples, code pieces, etc. -->
