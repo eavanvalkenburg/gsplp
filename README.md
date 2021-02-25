@@ -8,7 +8,9 @@ Synapse and Purview are two of the most strategic technologies in Azure, the fir
 
 This guide is meant for anyone interested in learning more about analytics and data governance on Azure. In just 50 days, you’ll understand the basics of Synapse and Purview and get hands-on experience with its various components, capabilities, and solutions. Go from zero to hero with Synapse & Purview to set your company up for future analytics success.
 
-<< insert picture of journey >>
+![Learning Path](assets/Guided%20Analytics%20Learning%20Path.png)
+
+----
 
 ## Communication
 - Community on Teams - invite only, after privacy consent
@@ -16,6 +18,7 @@ This guide is meant for anyone interested in learning more about analytics and d
   - Partner specific discussions via Microsoft Teams
 - Technical questions via StackOverflow with [`azure-synapse`][so-synapse] & [`azure-purview`][so-purview] label
 
+----
 
 ## Schedule
 | Days       | Topic                         |
