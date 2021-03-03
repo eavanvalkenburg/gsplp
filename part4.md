@@ -15,11 +15,9 @@ There are many valid architectures that use Synapse, alone or in combination wit
 
 ## Customer case
 
-Contoso is a large multinational retail company that has stores in Europe and the US. For their production systems they are using a combination of CosmosDB
+Contoso is a large multinational retail company that has stores in Europe and the US.
 
-In the end, their aim is to enable 
-
-[TODO]
+[work-in-progress]
 
 **This customer case doesn't contain all the information you would have in a real-world scenario, thus feel free to add your own creativity. If you want to have your architecture reviewed, you can post it in the Teams community.**
 
