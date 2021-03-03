@@ -4,13 +4,13 @@
 
 Learn about Synapse and Purview core concepts, including infrastructure components, access and identity, security, network, storage, and scaling. Each article covers a specific topic and only takes a few minutes to read, so you can understand the basics of Synapse and Purview in no time.
 
-| Synapse                                                                                                                                    | Purview                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| [Synapse Core Concepts][synapse-core]                                                                                                      | [Purview Core Concepts][purview-core]                                                         |
-| [Synapse Terminology][synapse-terms]                                                                                                       | [Purview Terminology][purview-terms]                                                          |
+| Synapse                                                                                                                                        | Purview                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Synapse Core Concepts][synapse-core]                                                                                                          | [Purview Core Concepts][purview-core]                                                         |
+| [Synapse Terminology][synapse-terms]                                                                                                           | [Purview Terminology][purview-terms]                                                          |
 | [Access control][synapse-security-acl] & [Encryption][synapse-security-encryption] & [AAD][synapse-security-aad] & [SQL][synapse-security-sql] | [Permissions][purview-security-permissions] & [Credential management][purview-security-creds] |
-| [Synapse Networking][synapse-network]                                                                                                      | [Purview Integration][purview-network]                                                        |
-| [SQL Resource utilization][synapse-scaling-sql] & [Autoscaling Spark][synapse-scaling-spark]                                               | [Purview pricing/scaling][purview-pricing]                                                    |
+| [Synapse Networking][synapse-network]                                                                                                          | [Purview Integration][purview-network]                                                        |
+| [SQL Resource utilization][synapse-scaling-sql] & [Autoscaling Spark][synapse-scaling-spark]                                                   | [Purview pricing/scaling][purview-pricing]                                                    |
 
 <!-- Core Concepts | [Synapse][synapse-link] | [Purview][purview-link] -->
 
