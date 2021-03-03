@@ -18,10 +18,18 @@ Review these resources to understand the different ways to use Synapse and Purvi
 - [Using Delta Lake with Synapse Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-delta-lake-overview?pivots=programming-language-csharp)
 - [Data validation at scale](https://techcommunity.microsoft.com/t5/azure-architecture-blog/data-validation-at-scale-with-azure-synapse/ba-p/2051697)
 
+### Migration from on-premises & cloud data warehouses
+
+- [Azure Synapse Pathway (Preview)](https://docs.microsoft.com/en-us/sql/tools/synapse-pathway/azure-synapse-pathway-overview?view=azure-sqldw-latest)
+
 
 ### Purview
 
+- [Azure Purview deployment best practices](https://docs.microsoft.com/en-us/azure/purview/deployment-best-practices)
+- [Azure Purview limits](https://docs.microsoft.com/en-us/azure/purview/how-to-manage-quotas)
+
 ---
+
 
 [previous-link]: part6.md
 [home-link]:README.md
