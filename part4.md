@@ -1,9 +1,9 @@
 # Day 21-25
 ## Synapse & Purview Architecture Design
 
-There are many valid architectures that use Synapse, alone or in combination with other data services like Databricks or AAS! 
+There are many valid architectures that use Synapse, alone or in combination with other data services like Databricks or Azure Analysis Services. In this part of the learning path, you will design your own architecture based on a fictional customer case.
 
-### Assignment:
+### Assignment
 > Review several architectures, including, but not limited to, the links below and create and be prepared to discuss your own  standard architecture, include at least Synapse and Purview.
 
 ---
@@ -12,6 +12,14 @@ There are many valid architectures that use Synapse, alone or in combination wit
 - [Modern Data Warehouse Architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/modern-data-warehouse)
 - [Browse Azure Architecture](https://docs.microsoft.com/en-us/azure/architecture/browse/?filter-products=synapse&products=azure-synapse-analytics)
 - [Google: azure synapse architecture](https://www.google.com/search?q=azure%20synapse%20architecture)
+
+## Customer case
+
+Contoso is a large multinational retail company that has stores in Europe and the US.
+
+[work-in-progress]
+
+**This customer case doesn't contain all the information you would have in a real-world scenario, thus feel free to add your own creativity. If you want to have your architecture reviewed, you can post it in the Teams community.**
 
 ---
 
