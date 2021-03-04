@@ -15,7 +15,7 @@ Learn about Synapse and Purview core concepts, including infrastructure componen
 <!-- Core Concepts | [Synapse][synapse-link] | [Purview][purview-link] -->
 
 
-[synapse-core]: https://aka.ms/wegsplp/docs/synapse/main
+[synapse-core]: https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is
 [synapse-terms]: https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-terminology
 [synapse-security-acl]: https://docs.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-access-control-overview
 [synapse-security-encryption]: https://docs.microsoft.com/en-us/azure/synapse-analytics/security/workspaces-encryption
