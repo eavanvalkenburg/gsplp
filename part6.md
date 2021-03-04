@@ -1,7 +1,7 @@
 # Day 28-32
 ## Data Analytics & Governance patterns & practices
 
-Understand the repeatable, generic patterns and reusable components that make developing reliable data analytics and governance systems easier and more efficient—so you can free up your time to focus on more strategic initiatives.
+Understand the repeatable, generic patterns and reusable components that make developing reliable data analytics and governance systems easier and more efficient—so you can free up your time to focus on more strategic initiatives.
 
 - [CAF Azure best practices - Synapse](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/analytics/azure-synapse)
 
