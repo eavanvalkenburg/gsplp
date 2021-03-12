@@ -4,10 +4,11 @@
 
 Work your way through a learning path to see all the concepts of Synapse and Purview in action! For Purview, go through all 5 parts of the the Starter Kit.
 
-> [Synapse Learning Path on MS Learn][synapse-learning-path]
 ##### 4 modules, ~180 minutes
-> [Purview Starter Kit][synapse-learning-path]
+> [Synapse Learning Path on MS Learn][synapse-learning-path]
+
 ##### 5 part series 
+> [Purview Starter Kit on MS Docs][purview-starter-kit]
 
 [synapse-learning-path]: https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/
 [purview-starter-kit]: https://docs.microsoft.com/en-us/azure/purview/tutorial-scan-data
