@@ -26,7 +26,7 @@ Contoso is a leading Dutch retailer with 500 stores across 20 countries (Europe 
 
 Contoso works regularly with vendors like Northwind Traders, who like to have insights in detailed sales figures for their brands. Some of these companies even want to have a copy of this data, for their own reporting/analytical needs, but Contoso is still hesitant to share this information. They are looking for advice on this topic.
 
-**This customer case doesn't contain all the information you would have in a real-world scenario, thus feel free to add your own creativity. If you want to have your architecture reviewed, you can post it in the Teams community.**
+**This customer case doesn't contain all the information you would have in a real-world scenario, thus feel free to add your own creativity. If you want to have your architecture reviewed, you can post it in the Teams community.** What would you ask as follow up questions, to make sure you build the right architecture. 😉
 
 ## How to draw a diagram?
 
