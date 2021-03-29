@@ -5,7 +5,7 @@
 Work your way through a learning path to see all the concepts of Synapse and Purview in action! For Purview, go through all 5 parts of the the Starter Kit.
 
 ##### 4 modules, ~180 minutes
-> [Synapse Learning Path on MS Learn][synapse-learning-path-challenge]
+> [Synapse Learning Path on MS Learn][synapse-learning-path]
 
 ##### 5 part series 
 
