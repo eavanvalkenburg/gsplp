@@ -23,13 +23,13 @@ This guide is meant for anyone interested in learning more about analytics and d
 ## Schedule
 | Days       | Topic                         |
 | ---------- | ----------------------------- |
-| Days 1-5   | [Basics][part1]               |
-| Days 6-15  | [Core concepts][part2]        |
-| Days 16-20 | [Exploration][part3]          |
-| Days 21-25 | [Architecture][part4]         |
-| Days 26-27 | [Hands-on workshop][part5]    |
-| Days 28-32 | [Patterns & Practices][part6] |
-| Days 33-50 | [Best practices][part7]       |
+| Week 1     | [Basics][part1]               |
+| Week 2     | [Core concepts][part2]        |
+| Week 3     | [Exploration][part3]          |
+| Week 4     | [Architecture][part4]         |
+| Week 5     | [Hands-on workshop][part5]    |
+| Week 6     | [Patterns & Practices][part6] |
+| Week 7     | [Best practices][part7]       |
 
 
 [part1]: part1.md
