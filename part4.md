@@ -1,4 +1,4 @@
-# Day 21-25
+# Week 4
 ## Synapse & Purview Architecture Design
 
 There are many valid architectures that use Synapse, alone or in combination with other data services like Databricks or Azure Analysis Services. In this part of the learning path, you will design your own architecture based on a fictional customer case. The customer case has many elements, thus feel free to divide your architecture in multiple parts.

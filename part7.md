@@ -1,4 +1,4 @@
-# Day 33-50
+# Week 7
 ## Operational best practices for Synapse & Purview
 
 Review these resources to understand the different ways to use Synapse and Purview in an optimal way!
