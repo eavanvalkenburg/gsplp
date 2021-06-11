@@ -1,4 +1,4 @@
-# Days 6-15
+# Week 2
 ## Synapse & Purview Core Concepts
 ### Articles
 

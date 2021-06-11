@@ -1,4 +1,4 @@
-# Day 16-20
+# Week 3
 ## Explore Synapse & Purview
 ### Guided hands-on
 

@@ -1,4 +1,4 @@
-# Day 1-5 
+# Week 1
 ## Synapse & Purview Basics
 ### Video series
 

@@ -1,4 +1,4 @@
-# Day 26-27
+# Week 5
 ## Azure Synapse Analytics Training
 
 **When**: March 29th, 2021 from 09:00 to 17:00 CET - 
